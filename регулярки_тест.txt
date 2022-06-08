@@ -1,0 +1,21 @@
+Flying\n{T}: Add one mana of any color.
+Lands you control have "{T}: Add one mana of any color."
+{1}, {T}, Sacrifice Chromatic Star: Add one mana of any color.\nWhen Chromatic Star is put into a graveyard from the battlefield, draw a card.
+Circle of Death — {5}{B}: Roll a d20.\n1—9 | Each opponent loses 2 life.\n10—19 | Each opponent loses 2 life and you gain 2 life.\n20 | Each opponent loses 2 life and you gain 2 life. 
+Create two Treasure tokens. (They're artifacts with "{T}, Sacrifice this artifact: Add one mana of any color.
+As an additional cost to cast this spell, sacrifice a creature.\nAdd an amount of {B} equal to the sacrificed creature's mana value.
+Add one mana of any color.
+When Shambling Ghast dies, choose one —\n• Brave the Stench — Target creature an opponent controls gets -1/-1 until end of turn.\n• 
+Search the Body — Create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
+Add one mana of any of the exiled card's colors.
+{1}, {T}, Sacrifice Chromatic Star: Add one mana of any color.\nWhen Chromatic Star is put into a graveyard from the battlefield, draw a card.
+Add one mana of any color that a basic land you control could produce.
+Add one mana of any color for each charge counter removed this way.
+Add one mana of any color in your commander's color identity.
+Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\nRemove a charge counter from Pentad Prism: Add one mana of any color.
+Add four mana in any combination of colors.
+Add two mana in any combination of colors.
+Add two mana of different colors.
+Add two mana of any one color.
+Add three mana of any one color.
+Add three mana in any combination of {R} and/or {G}.
