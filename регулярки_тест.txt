@@ -19,3 +19,5 @@ Add two mana of different colors.
 Add two mana of any one color.
 Add three mana of any one color.
 Add three mana in any combination of {R} and/or {G}.
+Add an amount of {B} equal to the sacrificed creature's mana value.
+Paradise Druid has hexproof as long as it's untapped. (It can't be the target of spells or abilities your opponents control.)\n{T}: Add one mana of any color.
